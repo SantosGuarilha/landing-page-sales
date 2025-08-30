@@ -1,2 +1,2 @@
-# Vendeas Para Empresas em Geral, Instaladores, Eletricistas, CFTV.
+# Vendas Para Empresas em Geral, Instaladores, Eletricistas, CFTV.
 negocios/ vendas
